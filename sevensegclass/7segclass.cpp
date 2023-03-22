@@ -1,7 +1,7 @@
 //cpp sev segment class
 #include "Sevclass.h" // add library
 
-SevenDisplay::SevenSegmentDisplay(int pins[7]){ // sev seg
+SevenDisplay::SevenDisplay(int pins[7]){ // sev seg
   this->pins = pins;
 }
 
